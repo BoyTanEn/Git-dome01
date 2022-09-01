@@ -1,7 +1,8 @@
-123243252
+3243252
 hello git
 wohuiyong vimla 
-你好，vim终于知道怎么用啦
+你好，vim终于知道
+你好，我
 git
 hello git
 hello git
