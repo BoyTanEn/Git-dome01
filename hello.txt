@@ -1,7 +1,7 @@
 123243252
 hello git
 wohuiyong vimla 
-
+你好，vim终于知道怎么用啦
 git
 hello git
 hello git
