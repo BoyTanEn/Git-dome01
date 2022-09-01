@@ -1,7 +1,4 @@
-123243252
-hello git
-wohuiyong vimla 
-
+你好，我是测试文件，
 git
 hello git
 hello git
